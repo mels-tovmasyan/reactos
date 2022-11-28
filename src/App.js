@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Contact me
+          TG
         </a>
       </header>
     </div>
