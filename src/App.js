@@ -6,16 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello!
-        </p>
         <a
           className="App-link"
           href="https://t.me/comradepetrov"
           target="_blank"
           rel="noopener noreferrer"
         >
-          TG
+          Contact me
         </a>
       </header>
     </div>
