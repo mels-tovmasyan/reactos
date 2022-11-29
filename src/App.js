@@ -12,7 +12,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            dddddddd
           Contact me
         </a>
       </header>
