@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Contact me
+          Contact me!
         </a>
       </header>
     </div>
