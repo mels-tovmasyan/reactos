@@ -7,7 +7,7 @@ function App() {
       <aside class="profile-card">
         <header>
           <a href="https://t.me/ComradePetrov">
-            <img src={image} class="hoverZoomLink" />
+            <img src={image} class="hoverZoomLink" alt="telegram_picture" />
           </a>
           <h1>
             Mels Tovmasyan
@@ -26,18 +26,18 @@ function App() {
 
         <ul class="profile-social-links">
           <li>
-            <a class="zoom" target="_blank" href="https://t.me/ComradePetrov">
+            <a class="zoom" href="https://t.me/ComradePetrov">
               <i class="fa fa-telegram"></i>
             </a>
           </li>
           <li>
-            <a class="zoom" target="_blank" href="https://www.linkedin.com/in/mels-tovmasyan/">
+            <a class="zoom" href="https://www.linkedin.com/in/mels-tovmasyan/">
 
               <i class="fa fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a class="zoom" target="_blank" href="https://github.com/mels-tovmasyan/">
+            <a class="zoom" href="https://github.com/mels-tovmasyan/">
               <i class="fa fa-github"></i>
             </a>
           </li>
